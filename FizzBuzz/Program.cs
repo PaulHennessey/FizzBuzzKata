@@ -30,7 +30,7 @@ namespace FizzBuzz
                 }
                 else if (IsMod(num, i => i % 5 == 0))
                 {
-                    Console.WriteLine("Buzz");
+                    Console.WriteLine("Buzzz");
                 }
                 else
                 {
